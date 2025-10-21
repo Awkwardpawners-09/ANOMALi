@@ -1,0 +1,11 @@
+Model Information:
+* title:	Luxury Elevator
+* source:	https://sketchfab.com/3d-models/luxury-elevator-c7c3b0146ddb47e9b6b3591ec2ae2df9
+* author:	icykinglit100 (https://sketchfab.com/icykinglit100)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Luxury Elevator" (https://sketchfab.com/3d-models/luxury-elevator-c7c3b0146ddb47e9b6b3591ec2ae2df9) by icykinglit100 (https://sketchfab.com/icykinglit100) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
