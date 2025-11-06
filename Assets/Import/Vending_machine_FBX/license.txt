@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vending_machine_FBX
+* source:	https://sketchfab.com/3d-models/vending-machine-fbx-9cf730e39619406eb1fdbee1e1796ebd
+* author:	photo775 (https://sketchfab.com/photo775)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vending_machine_FBX" (https://sketchfab.com/3d-models/vending-machine-fbx-9cf730e39619406eb1fdbee1e1796ebd) by photo775 (https://sketchfab.com/photo775) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
