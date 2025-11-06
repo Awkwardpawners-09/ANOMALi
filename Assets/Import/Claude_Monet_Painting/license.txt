@@ -1,0 +1,11 @@
+Model Information:
+* title:	Claude Monet Painting
+* source:	https://sketchfab.com/3d-models/claude-monet-painting-027644d8215d46eda68601d37156fa73
+* author:	isrichards6 (https://sketchfab.com/isrichards6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Claude Monet Painting" (https://sketchfab.com/3d-models/claude-monet-painting-027644d8215d46eda68601d37156fa73) by isrichards6 (https://sketchfab.com/isrichards6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
