@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rag Doll - toy
+* source:	https://sketchfab.com/3d-models/rag-doll-toy-ee00bd29f19f41e595cbf0fc88a4563e
+* author:	Brian Trepanier (https://sketchfab.com/CMBC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rag Doll - toy" (https://sketchfab.com/3d-models/rag-doll-toy-ee00bd29f19f41e595cbf0fc88a4563e) by Brian Trepanier (https://sketchfab.com/CMBC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

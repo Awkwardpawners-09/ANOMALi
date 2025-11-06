@@ -1,0 +1,11 @@
+Model Information:
+* title:	Welcome 3D text logo
+* source:	https://sketchfab.com/3d-models/welcome-3d-text-logo-a37dfbce2d0a41c8a7491242be852daf
+* author:	Dominic Baker (https://sketchfab.com/Domuk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Welcome 3D text logo" (https://sketchfab.com/3d-models/welcome-3d-text-logo-a37dfbce2d0a41c8a7491242be852daf) by Dominic Baker (https://sketchfab.com/Domuk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
